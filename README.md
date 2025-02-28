@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=3FF9DC&width=500&lines=Hey!+Thanks+for+stopping+by.+I'm+Abhishek.)](https://git.io/typing-svg)
 <!--
-**AbhiSingh378/Abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AbhiSingh378/AbhiSingh378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
